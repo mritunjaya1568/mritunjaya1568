@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mritunjaya1568
-- 👀 I’m interested in learning the dark magic behind lattices
+- 👀 I’m interested in breaking websites legally and unveiling the dark magic behind lattices in Cryptography
 - 🌱 learning crypto to break crypto 
 - 💞 - CTF's are lub
-- 📫 If you want to talk anything about lattices, cryptography, CTF's, DMs are always open. Here's how to reach me 
+- 📫 If you want to talk anything about lattices, Web Race Conditions, Cryptography, Web Security, or anything related to CTF's. DMs are always open. Here's how to reach me 
 - twitter - @mritunjya2002
 - discord - @Mritunjya#2850
 
